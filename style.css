@@ -1,0 +1,18 @@
+.banner {
+  background-image: url(dark.avif);
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
+.layanan {
+  background-image: url(project1.jpg);
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: black;
+}
+
+.kontak {
+  background-image: url(1867010.webp);
+}
